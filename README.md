@@ -1,3 +1,3 @@
 # JavaAcadSession
 
-It is for Acadgild Session Assignment
+It is for Acadgild Session Assignments
