@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class CheckPrimeNumber {    
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         PrimeNumber pNum1 = new PrimeNumber();
         if(pNum1.checkPrime())  System.out.println("It is a Prime Number.");
         else   System.out.println("It is not a Prime Number.");
