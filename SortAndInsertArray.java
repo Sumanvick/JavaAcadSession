@@ -8,7 +8,7 @@
 import java.util.Arrays;
 
 
-public class sortAndInsertArray {
+public class SortAndInsertArray {
    public static void main(String args[])throws Exception{
         int array[] = { 100, 104, 105, 106, 101, 102, 103, 107, 108, 109 };
 	System.out.println("The Array Is...");
