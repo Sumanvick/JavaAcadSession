@@ -1,3 +1,10 @@
+/*Session 4
+* Assignment 2
+* Problem Statement :
+* Sort an array and insert an element inside it.
+* Expected Output :
+* Should print the sorted array. Also should print the new array values after insertion of element.	*/
+
 import java.util.Arrays;
 
 
