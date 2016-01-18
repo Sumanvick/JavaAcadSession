@@ -1,5 +1,11 @@
-import java.util.Arrays;
+/*Session 4
+* Assignment 1
+* Problem Statement :
+* Print reverse of an array.
+* Expected Output :
+* Should print the reverse of an Array.	*/
 
+import java.util.Arrays;
 
 public class printReverseArray {
    public static void main(String args[])throws Exception{
