@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class sortAndInsertArray {
    public static void main(String args[])throws Exception{
         int array[] = { 100, 104, 105, 106, 101, 102, 103, 107, 108, 109 };
-		System.out.println("The Array Is...");
+	System.out.println("The Array Is...");
         printArray(array);		
         System.out.println("--------------------------------------------");
 		
@@ -13,7 +13,7 @@ public class sortAndInsertArray {
         printArray(array);		
         System.out.println("--------------------------------------------");
 		
-		int insertIndex = array.length;
+	int insertIndex = array.length;
         array = Arrays.copyOf(array, array.length + 1);
         array[insertIndex] = 200;
         System.out.println("After Inserted 200 The Array Is...");
